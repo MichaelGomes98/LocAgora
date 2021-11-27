@@ -5,7 +5,7 @@
   <img src="https://user-images.githubusercontent.com/48489202/143305206-04ef9213-d99b-4e39-8c49-5fff5dac33b0.png">
 </p>
 <p align="justify">
-<b>LocAgora</b> est une application mobile cross-plateforme (IOS et Android) dont la fonctionnalité principale est de géolocaliser toutes les agorespace de Genève de la plus simple des façons. L’utilisateur a la possibilité de rechercher une agorespace dans une liste qui le redirigera sur une map. Afin de facilité la recherche de l’utilisateur, il a également la possibilité de rechercher une agorespace grâce à une barre de recherche. Un système d'évaluation d'agorespace est aussi proposé.
+<b>LocAgora</b> est une application mobile cross-plateforme (IOS et Android) dont la fonctionnalité principale est de géolocaliser toutes les agorespaces de Genève de la plus simple des façons. L’utilisateur a la possibilité de rechercher une agorespace dans une liste qui le redirigera sur une map. Afin de facilité la recherche de l’utilisateur, il a également la possibilité de rechercher une agorespace grâce à une barre de recherche. Un système d'évaluation d'agorespace est aussi proposé.
 </p>
 
 ## Technologies
