@@ -1,6 +1,5 @@
+
 # LocAgora
-https://user-images.githubusercontent.com/48489202/143659986-3da98671-1698-4046-baeb-5d7985cd23ed.mp4
-https://user-images.githubusercontent.com/48489202/143682271-f020329b-41d4-4dea-979f-16411f49e89b.mp4
 
 <p align="center">
   <img src="https://user-images.githubusercontent.com/48489202/143305206-04ef9213-d99b-4e39-8c49-5fff5dac33b0.png">
@@ -24,4 +23,7 @@ https://user-images.githubusercontent.com/48489202/143682271-f020329b-41d4-4dea-
 	<img width="150" height="300" src="https://user-images.githubusercontent.com/48489202/143681977-cbc68d18-3a61-4abd-9469-5c6b6590591d.jpeg">
 	<img width="150" height="300" src="https://user-images.githubusercontent.com/48489202/143681975-72afb860-0d68-43a5-ac7e-9ab7870a560f.jpeg">	
 </p>
+
+
+
 https://user-images.githubusercontent.com/48489202/143682271-f020329b-41d4-4dea-979f-16411f49e89b.mp4
