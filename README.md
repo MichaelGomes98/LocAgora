@@ -6,24 +6,16 @@ https://user-images.githubusercontent.com/48489202/143659986-3da98671-1698-4046-
   <img src="https://user-images.githubusercontent.com/48489202/143305206-04ef9213-d99b-4e39-8c49-5fff5dac33b0.png">
 </p>
 <p align="justify">
-<b>LocAgora</b> est une application mobile cross-plateforme (IOS et Android) dont la fonctionnalité principale est de géolocaliser toues les agorespace de Genève de la plus simple des façons. L’utilisateur a la possibilité de rechercher une agorespace dans une liste qui le redirigera sur une map. Afin de facilité la recherche de l’utilisateur, il a également la possibilité de rechercher une agorespace grâce à une barre de recherche. Les utilisateurs ont également la posibilité de donner leurs avis sur les agorespace.
+<b>LocAgora</b> est une application mobile cross-plateforme (IOS et Android) dont la fonctionnalité principale est de géolocaliser toutes les agorespace de Genève de la plus simple des façons. L’utilisateur a la possibilité de rechercher une agorespace dans une liste qui le redirigera sur une map. Afin de facilité la recherche de l’utilisateur, il a également la possibilité de rechercher une agorespace grâce à une barre de recherche. Un système d'évaluation d'agorespace est aussi proposé.
 </p>
 
 ## Technologies
-* Java
-* Firebase
+* React Native
 	
 ## Fonctionnalités
-* Localisation des stades
-* Recherche de stades selon différents critères
-* Ajout, modification et suppresion de stades
-* Prendre des photos
-* Consultation des photos
-
-## Architecture
-<p align="center">
-	<img width="800" height="auto" src="https://user-images.githubusercontent.com/48489202/143318755-401bda75-253e-47dd-8f10-7673c5089230.png">
-</p>
+* Localisation d'agorespace
+* Recherche de agorespace selon différents critères
+* Evaluation des agorespace
 
 ## Captures d'écran
 <p align="center">
